@@ -17,7 +17,7 @@ Welcome to the AI and Math for Beginners course! This 5-week program is designed
 
 ## Setup
 
-1. Fork this repository to your own GitLab account.
+1. Fork this repository to your own Github account.
 2. Clone your forked repository to your local machine.
 3. Install the required packages: pip install -r requirements.txt
 
