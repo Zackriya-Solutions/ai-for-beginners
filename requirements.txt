@@ -1,0 +1,5 @@
+numpy==1.21.0
+scipy==1.7.0
+matplotlib==3.4.2
+pytest==6.2.4
+torch==1.9.0
